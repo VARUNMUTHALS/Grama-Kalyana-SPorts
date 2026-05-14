@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Build files
+build/
+app/build/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Captures
+captures/
+
+# APK/AAB
+*.apk
+*.aab
+
+# Logs
+*.log
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
+
+# Temporary
+*.tmp
+
+# Archives
+*.zip
